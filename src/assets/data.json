@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "07/08/2023",
+      "title": "CYNTHIA-UGWU",
+      "description": "Its a frontend clone of awwwards site Cynthia Ugwu portfolio which is developed by using HTML,CSS and JS with GSAP library.",
+      "url": "https://reactone-nine.vercel",
+      "imgSrc": "https://assets.awwwards.com/awards/submissions/2023/05/64685f5f08220105372562.png"
+    },
+
+    {
+      "date": "11/09/2023",
+      "title": "VIDEO HUB",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://vid-space-chakra-ui.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "Resume Builder",
+      "description": "Create a simple JavaScript resume builder where you can add details and generate a resume with descriptions",
+      "url": "https://resume-builder-chi-nine.vercel.app/",
+      "imgSrc": "https://i.postimg.cc/0QKfYYnh/Screenshot-5.png"
+    },
+    {
+      "date": "15/10/2023",
+      "title": "CoinChaser",
+      "description": "This web app enables users to track cryptocurrency prices, offering features like search, price data viewing, secure login with Google Sign-In",
+      "url": "https://coin-chaser-3xtu.vercel.app/",
+      "imgSrc": "https://i.postimg.cc/L6ssx2GB/Screenshot-6.png"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
